@@ -41,7 +41,7 @@ print('predicted CO2 for the corresponding weight and volume',predictedco2)
 ## Output:
 ![gitlogo](carsS.png)
 
-### Insert your output
+
 
 <br>
 
